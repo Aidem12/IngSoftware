@@ -4,6 +4,7 @@ int main() {
     int num1, num2, mult;
 
     // Solicitar al usuario que ingrese dos números
+     printf("HAcer cambio: ");
     printf("Ingrese el primer número: ");
     scanf("%d", &num1);
 
